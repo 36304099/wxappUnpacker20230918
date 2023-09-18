@@ -79,6 +79,17 @@ Mac OS
 
 ### 2. for 通用操作系统（Windows 和 Mac）
 
+```bash
+npm install esprima
+npm install css-tree
+npm install cssbeautify
+npm install vm2
+npm install uglify-es
+npm install js-beautify
+npm install escodegen
+npm install cheerio
+```
+
 - 解包某个小程序
 
 ```bash
